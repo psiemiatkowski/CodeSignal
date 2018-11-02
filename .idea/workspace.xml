@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8915befc-23a3-441b-9187-b61e906d9d4b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/code/signal/centuryFromYear/CenturyCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/code/signal/centuryFromYear/CenturyCalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/code/signal/checkPalindrome/PalindromeChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/code/signal/checkPalindrome/info.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/code/signal/checkPalindrome/PalindromeCheckerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -23,95 +25,40 @@
     <session id="-858106132">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="8" />
-          <entry key="txt" value="8" />
+          <entry key="java" value="12" />
+          <entry key="txt" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="8" />
-          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="JAVA" value="12" />
+          <entry key="PLAIN_TEXT" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="764" />
-          <entry key="txt" value="24" />
+          <entry key="java" value="938" />
+          <entry key="txt" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="764" />
-          <entry key="PLAIN_TEXT" value="24" />
+          <entry key="JAVA" value="938" />
+          <entry key="PLAIN_TEXT" value="26" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/code/signal/centuryFromYear/info.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/code/signal/adjacentElementsProduct/Product.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/code/signal/adjacentElementsProduct/ProductTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="15" column="37" lean-forward="true" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/code/signal/centuryFromYear/CenturyCalculator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/code/signal/centuryFromYear/CenturyCalculatorTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/code/signal/adjacentElementsProduct/info.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -425,10 +372,13 @@
         <option value="$PROJECT_DIR$/src/test/java/com/code/signal/centuryFromYear/info.txt" />
         <option value="$PROJECT_DIR$/src/main/java/com/code/signal/centuryFromYear/info.txt" />
         <option value="$PROJECT_DIR$/src/main/java/com/code/signal/adjacentElementsProduct/info.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/com/code/signal/adjacentElementsProduct/Product.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/code/signal/adjacentElementsProduct/ProductTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/code/signal/centuryFromYear/CenturyCalculator.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/code/signal/centuryFromYear/CenturyCalculatorTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/code/signal/adjacentElementsProduct/Product.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/code/signal/checkPalindrome/PalindromeChecker.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/code/signal/checkPalindrome/PalindromeCheckerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/code/signal/checkPalindrome/info.txt" />
       </list>
     </option>
   </component>
@@ -444,7 +394,9 @@
     <option name="width" value="1936" />
     <option name="height" value="1066" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -488,24 +440,6 @@
               <item name="CodeSignal" type="b2602c69:ProjectViewProjectNode" />
               <item name="CodeSignal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="signal" type="462c0819:PsiDirectoryNode" />
-              <item name="adjacentElementsProduct" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeSignal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeSignal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="signal" type="462c0819:PsiDirectoryNode" />
-              <item name="centuryFromYear" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeSignal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeSignal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
@@ -522,24 +456,6 @@
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="signal" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeSignal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeSignal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="signal" type="462c0819:PsiDirectoryNode" />
-              <item name="adjacentElementsProduct" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeSignal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeSignal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="signal" type="462c0819:PsiDirectoryNode" />
-              <item name="centuryFromYear" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -551,7 +467,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540985951687" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541153697057" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="C:/REST/tasks" />
@@ -561,6 +477,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.code.signal.checkPalindrome" />
       <recent name="com.code.signal.centuryFromYear" />
       <recent name="com.code.signal.adjacentElementsProduct" />
     </key>
@@ -583,7 +500,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CenturyCalculatorTest.shouldCalculateCenturyFromYear">
+  <component name="RunManager" selected="JUnit.PalindromeCheckerTest.isPalindrome">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.code.signal.adjacentElementsProduct.Application" />
       <module name="CodeSignal_main" />
@@ -629,17 +546,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProductTest.d" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PalindromeCheckerTest.isPalindrome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CodeSignal_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.code.signal.adjacentElementsProduct.*" />
+          <option name="PATTERN" value="com.code.signal.checkPalindrome.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.code.signal.adjacentElementsProduct" />
-      <option name="MAIN_CLASS_NAME" value="com.code.signal.adjacentElementsProduct.ProductTest" />
-      <option name="METHOD_NAME" value="d" />
+      <option name="PACKAGE_NAME" value="com.code.signal.checkPalindrome" />
+      <option name="MAIN_CLASS_NAME" value="com.code.signal.checkPalindrome.PalindromeCheckerTest" />
+      <option name="METHOD_NAME" value="isPalindrome" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -662,19 +579,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.ProductTest.d" />
       <item itemvalue="JUnit.ProductTest.shouldReturnMaxValueAdjacentElements" />
       <item itemvalue="Application.Application" />
       <item itemvalue="JUnit.CenturyCalculatorTest.shouldCalculateYearForCentury" />
       <item itemvalue="JUnit.CenturyCalculatorTest.shouldCalculateCenturyFromYear" />
+      <item itemvalue="JUnit.PalindromeCheckerTest.isPalindrome" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PalindromeCheckerTest.isPalindrome" />
         <item itemvalue="JUnit.CenturyCalculatorTest.shouldCalculateCenturyFromYear" />
         <item itemvalue="JUnit.CenturyCalculatorTest.shouldCalculateYearForCentury" />
         <item itemvalue="JUnit.ProductTest.shouldReturnMaxValueAdjacentElements" />
         <item itemvalue="Application.Application" />
-        <item itemvalue="JUnit.ProductTest.d" />
       </list>
     </recent_temporary>
   </component>
@@ -689,32 +606,12 @@
       <option name="presentableId" value="Default" />
       <updated>1540886712150</updated>
       <workItem from="1540886721074" duration="2426000" />
-      <workItem from="1540966064675" duration="11060000" />
+      <workItem from="1540966064675" duration="12032000" />
+      <workItem from="1541138096215" duration="2479000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ProductTest_shouldReturnMaxValueAdjacentElements - 2018.10.31 at 08h 44m 35s.xml">
-      <configuration name="ProductTest.shouldReturnMaxValueAdjacentElements" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ProductTest_shouldReturnMaxValueAdjacentElements - 2018.10.31 at 08h 45m 08s.xml">
-      <configuration name="ProductTest.shouldReturnMaxValueAdjacentElements" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ProductTest_shouldReturnMaxValueAdjacentElements - 2018.10.31 at 09h 55m 24s.xml">
-      <configuration name="ProductTest.shouldReturnMaxValueAdjacentElements" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ProductTest_shouldReturnMaxValueAdjacentElements - 2018.10.31 at 10h 37m 59s.xml">
-      <configuration name="ProductTest.shouldReturnMaxValueAdjacentElements" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ProductTest_shouldReturnMaxValueAdjacentElements - 2018.10.31 at 11h 38m 27s.xml">
-      <configuration name="ProductTest.shouldReturnMaxValueAdjacentElements" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CenturyCalculatorTest_shouldCalculateYearForCentury - 2018.10.31 at 12h 25m 25s.xml">
-      <configuration name="CenturyCalculatorTest.shouldCalculateYearForCentury" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CenturyCalculatorTest_shouldCalculateYearForCentury - 2018.10.31 at 12h 25m 59s.xml">
-      <configuration name="CenturyCalculatorTest.shouldCalculateYearForCentury" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CenturyCalculatorTest_shouldCalculateYearForCentury - 2018.10.31 at 12h 30m 41s.xml">
       <configuration name="CenturyCalculatorTest.shouldCalculateYearForCentury" configurationId="JUnit" />
     </history-entry>
@@ -724,22 +621,41 @@
     <history-entry file="CenturyCalculatorTest_shouldCalculateYearForCentury - 2018.10.31 at 12h 35m 49s.xml">
       <configuration name="CenturyCalculatorTest.shouldCalculateYearForCentury" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="CenturyCalculatorTest_shouldCalculateCenturyFromYear - 2018.10.31 at 12h 40m 24s.xml">
+      <configuration name="CenturyCalculatorTest.shouldCalculateCenturyFromYear" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CenturyCalculatorTest_shouldCalculateCenturyFromYear - 2018.11.02 at 10h 54m 03s.xml">
+      <configuration name="CenturyCalculatorTest.shouldCalculateCenturyFromYear" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PalindromeCheckerTest_isPalindrome - 2018.11.02 at 10h 54m 31s.xml">
+      <configuration name="PalindromeCheckerTest.isPalindrome" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PalindromeCheckerTest_isPalindrome - 2018.11.02 at 11h 06m 27s.xml">
+      <configuration name="PalindromeCheckerTest.isPalindrome" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PalindromeCheckerTest_isPalindrome - 2018.11.02 at 11h 07m 50s.xml">
+      <configuration name="PalindromeCheckerTest.isPalindrome" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PalindromeCheckerTest_isPalindrome - 2018.11.02 at 11h 11m 51s.xml">
+      <configuration name="PalindromeCheckerTest.isPalindrome" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PalindromeCheckerTest_isPalindrome - 2018.11.02 at 11h 12m 01s.xml">
+      <configuration name="PalindromeCheckerTest.isPalindrome" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13486000" />
+    <option name="totallyTimeSpent" value="16937000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32939914" />
@@ -752,6 +668,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32939914" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="11" visible="true" weight="0.32939914" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32939914" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -778,13 +695,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="302">
           <caret line="48" column="8" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/code/signal/adjacentElementsProduct/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
@@ -816,10 +726,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/code/signal/adjacentElementsProduct/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/code/signal/checkPalindrome/PalindromeChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/code/signal/centuryFromYear/CenturyCalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/code/signal/checkPalindrome/PalindromeCheckerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" column="35" lean-forward="true" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/code/signal/checkPalindrome/info.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="53" lean-forward="true" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
         </state>
       </provider>
     </entry>
