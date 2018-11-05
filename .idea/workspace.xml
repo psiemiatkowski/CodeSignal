@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8915befc-23a3-441b-9187-b61e906d9d4b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/code/signal/checkPalindrome/PalindromeChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/code/signal/checkPalindrome/info.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/code/signal/checkPalindrome/PalindromeCheckerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/code/signal/shapeArea/AreaFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/code/signal/shapeArea/info.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/code/signal/shapeArea/AreaFinderTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/code/signal/checkPalindrome/PalindromeChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/code/signal/checkPalindrome/PalindromeChecker.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -25,40 +27,69 @@
     <session id="-858106132">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="12" />
-          <entry key="txt" value="9" />
+          <entry key="java" value="20" />
+          <entry key="txt" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="12" />
-          <entry key="PLAIN_TEXT" value="9" />
+          <entry key="JAVA" value="20" />
+          <entry key="PLAIN_TEXT" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="938" />
-          <entry key="txt" value="26" />
+          <entry key="java" value="1323" />
+          <entry key="txt" value="40" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="938" />
-          <entry key="PLAIN_TEXT" value="26" />
+          <entry key="JAVA" value="1323" />
+          <entry key="PLAIN_TEXT" value="40" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/code/signal/shapeArea/AreaFinder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/code/signal/shapeArea/info.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/code/signal/shapeArea/AreaFinderTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="18" column="49" lean-forward="true" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -376,9 +407,14 @@
         <option value="$PROJECT_DIR$/src/main/java/com/code/signal/centuryFromYear/CenturyCalculator.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/code/signal/centuryFromYear/CenturyCalculatorTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/code/signal/adjacentElementsProduct/Product.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/code/signal/checkPalindrome/PalindromeChecker.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/code/signal/checkPalindrome/PalindromeCheckerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/shapeArea/AreaFinder.java" />
+        <option value="$PROJECT_DIR$/src/test/java/shapeArea/AreaFinderTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/code/signal/checkPalindrome/PalindromeChecker.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/code/signal/checkPalindrome/info.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/code/signal/shapeArea/info.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/code/signal/shapeArea/AreaFinder.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/code/signal/shapeArea/AreaFinderTest.java" />
       </list>
     </option>
   </component>
@@ -402,7 +438,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -440,6 +475,42 @@
               <item name="CodeSignal" type="b2602c69:ProjectViewProjectNode" />
               <item name="CodeSignal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="signal" type="462c0819:PsiDirectoryNode" />
+              <item name="adjacentElementsProduct" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeSignal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeSignal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="signal" type="462c0819:PsiDirectoryNode" />
+              <item name="centuryFromYear" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeSignal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeSignal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="signal" type="462c0819:PsiDirectoryNode" />
+              <item name="checkPalindrome" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeSignal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeSignal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="signal" type="462c0819:PsiDirectoryNode" />
+              <item name="shapeArea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeSignal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeSignal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
@@ -457,17 +528,36 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="signal" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="CodeSignal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeSignal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="signal" type="462c0819:PsiDirectoryNode" />
+              <item name="checkPalindrome" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeSignal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeSignal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="signal" type="462c0819:PsiDirectoryNode" />
+              <item name="shapeArea" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541153697057" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541423576759" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="C:/REST/tasks" />
@@ -477,6 +567,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.code.signal.shapeArea" />
+      <recent name="shapeArea" />
       <recent name="com.code.signal.checkPalindrome" />
       <recent name="com.code.signal.centuryFromYear" />
       <recent name="com.code.signal.adjacentElementsProduct" />
@@ -500,16 +592,19 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.PalindromeCheckerTest.isPalindrome">
-    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.code.signal.adjacentElementsProduct.Application" />
-      <module name="CodeSignal_main" />
+  <component name="RunManager" selected="JUnit.AreaFinderTest.shouldCalculateShapeArea">
+    <configuration name="AreaFinderTest.shouldCalculateShapeArea" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeSignal_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.code.signal.adjacentElementsProduct.*" />
+          <option name="PATTERN" value="com.code.signal.shapeArea.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.code.signal.shapeArea" />
+      <option name="MAIN_CLASS_NAME" value="com.code.signal.shapeArea.AreaFinderTest" />
+      <option name="METHOD_NAME" value="shouldCalculateShapeArea" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -580,18 +675,18 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.ProductTest.shouldReturnMaxValueAdjacentElements" />
-      <item itemvalue="Application.Application" />
       <item itemvalue="JUnit.CenturyCalculatorTest.shouldCalculateYearForCentury" />
       <item itemvalue="JUnit.CenturyCalculatorTest.shouldCalculateCenturyFromYear" />
       <item itemvalue="JUnit.PalindromeCheckerTest.isPalindrome" />
+      <item itemvalue="JUnit.AreaFinderTest.shouldCalculateShapeArea" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.AreaFinderTest.shouldCalculateShapeArea" />
         <item itemvalue="JUnit.PalindromeCheckerTest.isPalindrome" />
         <item itemvalue="JUnit.CenturyCalculatorTest.shouldCalculateCenturyFromYear" />
         <item itemvalue="JUnit.CenturyCalculatorTest.shouldCalculateYearForCentury" />
         <item itemvalue="JUnit.ProductTest.shouldReturnMaxValueAdjacentElements" />
-        <item itemvalue="Application.Application" />
       </list>
     </recent_temporary>
   </component>
@@ -607,49 +702,51 @@
       <updated>1540886712150</updated>
       <workItem from="1540886721074" duration="2426000" />
       <workItem from="1540966064675" duration="12032000" />
-      <workItem from="1541138096215" duration="2479000" />
+      <workItem from="1541138096215" duration="4466000" />
+      <workItem from="1541418982024" duration="4194000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CenturyCalculatorTest_shouldCalculateYearForCentury - 2018.10.31 at 12h 30m 41s.xml">
-      <configuration name="CenturyCalculatorTest.shouldCalculateYearForCentury" configurationId="JUnit" />
+    <history-entry file="AreaFinderTest_shouldCalulateShapeArea - 2018.11.05 at 13h 47m 29s.xml">
+      <configuration name="AreaFinderTest.shouldCalulateShapeArea" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CenturyCalculatorTest_shouldCalculateYearForCentury - 2018.10.31 at 12h 32m 02s.xml">
-      <configuration name="CenturyCalculatorTest.shouldCalculateYearForCentury" configurationId="JUnit" />
+    <history-entry file="AreaFinderTest_shouldCalulateShapeArea - 2018.11.05 at 13h 49m 26s.xml">
+      <configuration name="AreaFinderTest.shouldCalulateShapeArea" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CenturyCalculatorTest_shouldCalculateYearForCentury - 2018.10.31 at 12h 35m 49s.xml">
-      <configuration name="CenturyCalculatorTest.shouldCalculateYearForCentury" configurationId="JUnit" />
+    <history-entry file="AreaFinderTest_shouldCalulateShapeArea - 2018.11.05 at 13h 56m 39s.xml">
+      <configuration name="AreaFinderTest.shouldCalulateShapeArea" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CenturyCalculatorTest_shouldCalculateCenturyFromYear - 2018.10.31 at 12h 40m 24s.xml">
-      <configuration name="CenturyCalculatorTest.shouldCalculateCenturyFromYear" configurationId="JUnit" />
+    <history-entry file="AreaFinderTest_shouldCalulateShapeArea - 2018.11.05 at 13h 57m 08s.xml">
+      <configuration name="AreaFinderTest.shouldCalulateShapeArea" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CenturyCalculatorTest_shouldCalculateCenturyFromYear - 2018.11.02 at 10h 54m 03s.xml">
-      <configuration name="CenturyCalculatorTest.shouldCalculateCenturyFromYear" configurationId="JUnit" />
+    <history-entry file="AreaFinderTest_shouldCalulateShapeArea - 2018.11.05 at 14h 04m 27s.xml">
+      <configuration name="AreaFinderTest.shouldCalulateShapeArea" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PalindromeCheckerTest_isPalindrome - 2018.11.02 at 10h 54m 31s.xml">
-      <configuration name="PalindromeCheckerTest.isPalindrome" configurationId="JUnit" />
+    <history-entry file="AreaFinderTest_shouldCalulateShapeArea - 2018.11.05 at 14h 04m 57s.xml">
+      <configuration name="AreaFinderTest.shouldCalulateShapeArea" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PalindromeCheckerTest_isPalindrome - 2018.11.02 at 11h 06m 27s.xml">
-      <configuration name="PalindromeCheckerTest.isPalindrome" configurationId="JUnit" />
+    <history-entry file="AreaFinderTest_shouldCalulateShapeArea - 2018.11.05 at 14h 05m 16s.xml">
+      <configuration name="AreaFinderTest.shouldCalulateShapeArea" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PalindromeCheckerTest_isPalindrome - 2018.11.02 at 11h 07m 50s.xml">
-      <configuration name="PalindromeCheckerTest.isPalindrome" configurationId="JUnit" />
+    <history-entry file="AreaFinderTest_shouldCalulateShapeArea - 2018.11.05 at 14h 09m 01s.xml">
+      <configuration name="AreaFinderTest.shouldCalulateShapeArea" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PalindromeCheckerTest_isPalindrome - 2018.11.02 at 11h 11m 51s.xml">
-      <configuration name="PalindromeCheckerTest.isPalindrome" configurationId="JUnit" />
+    <history-entry file="AreaFinderTest_shouldCalulateShapeArea - 2018.11.05 at 14h 12m 14s.xml">
+      <configuration name="AreaFinderTest.shouldCalulateShapeArea" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PalindromeCheckerTest_isPalindrome - 2018.11.02 at 11h 12m 01s.xml">
-      <configuration name="PalindromeCheckerTest.isPalindrome" configurationId="JUnit" />
+    <history-entry file="AreaFinderTest_shouldCalculateShapeArea - 2018.11.05 at 14h 12m 58s.xml">
+      <configuration name="AreaFinderTest.shouldCalculateShapeArea" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16937000" />
+    <option name="totallyTimeSpent" value="23118000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -658,7 +755,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32939914" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32939914" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -719,6 +816,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/code/signal/centuryFromYear/CenturyCalculatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/code/signal/checkPalindrome/PalindromeCheckerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/shapeArea/AreaFinderTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/code/signal/centuryFromYear/CenturyCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -733,31 +847,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/code/signal/checkPalindrome/PalindromeChecker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/code/signal/centuryFromYear/CenturyCalculatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/code/signal/checkPalindrome/PalindromeCheckerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="25" column="35" lean-forward="true" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/code/signal/checkPalindrome/info.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="21" column="53" lean-forward="true" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/code/signal/shapeArea/info.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/code/signal/checkPalindrome/PalindromeChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/code/signal/shapeArea/AreaFinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/code/signal/shapeArea/AreaFinderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="49" lean-forward="true" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
         </state>
       </provider>
     </entry>
