@@ -27,5 +27,4 @@ public class MissingStatuesCounterTest {
         Assert.assertEquals(2, result4);
         Assert.assertEquals(0, result5);
     }
-
 }
