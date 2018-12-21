@@ -22,7 +22,7 @@ public class PriceCalculatorTest {
         int[][] building3 = new int[][]{
                 {1, 1, 1},
                 {2, 2, 2},
-                {3, 3, 3}
+                {4, 4, 4}
         };
         int[][] building4 = new int[][]{
                 {0}
@@ -35,7 +35,7 @@ public class PriceCalculatorTest {
         //Then
         Assert.assertEquals(9, result1);
         Assert.assertEquals(9, result2);
-        Assert.assertEquals(18, result3);
+        Assert.assertEquals(21, result3);
         Assert.assertEquals(0, result4);
     }
 }
