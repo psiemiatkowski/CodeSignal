@@ -2,25 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8915befc-23a3-441b-9187-b61e906d9d4b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/code/signal/allLongestStrings/LongestStringsFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/code/signal/allLongestStrings/info.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/code/signal/allLongestStrings/LongestStringsFinderTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.code.signal.adjacentElementsProduct.ProductTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.code.signal.almostIncreasingSequence.IncreasingSequenceCheckerTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.code.signal.centuryFromYear.CenturyCalculatorTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.code.signal.checkPalindrome.PalindromeCheckerTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.code.signal.makeArrayConsecutive.MissingStatuesCounterTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.code.signal.shapeArea.AreaFinderTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.code.signal.adjacentElementsProduct.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.code.signal.almostIncreasingSequence.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.code.signal.centuryFromYear.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.code.signal.checkPalindrome.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.code.signal.makeArrayConsecutive.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.code.signal.shapeArea.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/code/signal/matrixElementsSum/TotalPriceCalculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/com/code/signal/matrixElementsSum/TotalPriceCalculatorTest.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -40,83 +25,56 @@
     <session id="-858106132">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="14" />
+          <entry key="project.closed" value="16" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.7" value="2" />
-          <entry key="project.open.time.8" value="6" />
-          <entry key="project.open.time.9" value="4" />
-          <entry key="project.opened" value="14" />
+          <entry key="project.open.time.8" value="8" />
+          <entry key="project.open.time.9" value="5" />
+          <entry key="project.opened" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="38" />
-          <entry key="txt" value="18" />
+          <entry key="java" value="44" />
+          <entry key="txt" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="38" />
-          <entry key="PLAIN_TEXT" value="18" />
+          <entry key="JAVA" value="44" />
+          <entry key="PLAIN_TEXT" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2886" />
-          <entry key="txt" value="77" />
+          <entry key="java" value="3438" />
+          <entry key="txt" value="82" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2886" />
-          <entry key="PLAIN_TEXT" value="77" />
+          <entry key="JAVA" value="3438" />
+          <entry key="PLAIN_TEXT" value="82" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/code/signal/almostIncreasingSequence/IncreasingSequenceChecker.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/code/signal/matrixElementsSum/info.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="108" selection-start-column="100" selection-end-column="108" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/code/signal/matrixElementsSum/PriceCalculator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/code/signal/matrixElementsSum/PriceCalculatorTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/code/signal/allLongestStrings/LongestStringsFinder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="306">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/code/signal/shapeArea/AreaFinderTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/code/signal/allLongestStrings/LongestStringsFinderTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+            <state relative-caret-position="90">
+              <caret line="5" column="39" lean-forward="true" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -126,8 +84,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -457,6 +415,12 @@
         <option value="$PROJECT_DIR$/src/test/java/com/code/signal/matrixElementsSum/TotalPriceCalculatorTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/code/signal/matrixElementsSum/TotalPriceCalculator.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/code/signal/matrixElementsSum/PriceCalculator.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/code/signal/matrixElementsSum/PriceCalculatorTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/code/signal/allLongestStrings/info.txt" />
+        <option value="$PROJECT_DIR$/src/test/java/com/code/signal/allLongestStrings/LongestStringsFinderTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/code/signal/allLongestStrings/Arrays.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/code/signal/allLongestStrings/ArraysTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/code/signal/allLongestStrings/LongestStringsFinder.java" />
       </list>
     </option>
   </component>
@@ -480,6 +444,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -525,82 +491,55 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="signal" type="462c0819:PsiDirectoryNode" />
+              <item name="allLongestStrings" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeSignal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeSignal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="signal" type="462c0819:PsiDirectoryNode" />
+              <item name="almostIncreasingSequence" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeSignal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeSignal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeSignal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeSignal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeSignal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeSignal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="signal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeSignal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeSignal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="signal" type="462c0819:PsiDirectoryNode" />
               <item name="adjacentElementsProduct" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CodeSignal" type="b2602c69:ProjectViewProjectNode" />
               <item name="CodeSignal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="signal" type="462c0819:PsiDirectoryNode" />
-              <item name="almostIncreasingSequence" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeSignal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeSignal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="signal" type="462c0819:PsiDirectoryNode" />
-              <item name="centuryFromYear" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeSignal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeSignal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="signal" type="462c0819:PsiDirectoryNode" />
-              <item name="checkPalindrome" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeSignal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeSignal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="signal" type="462c0819:PsiDirectoryNode" />
-              <item name="makeArrayConsecutive" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeSignal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeSignal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="signal" type="462c0819:PsiDirectoryNode" />
-              <item name="matrixElementsSum" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeSignal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeSignal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="signal" type="462c0819:PsiDirectoryNode" />
-              <item name="shapeArea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeSignal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeSignal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeSignal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeSignal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeSignal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeSignal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="signal" type="462c0819:PsiDirectoryNode" />
+              <item name="allLongestStrings" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CodeSignal" type="b2602c69:ProjectViewProjectNode" />
@@ -610,55 +549,17 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="signal" type="462c0819:PsiDirectoryNode" />
               <item name="almostIncreasingSequence" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeSignal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeSignal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="signal" type="462c0819:PsiDirectoryNode" />
-              <item name="checkPalindrome" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeSignal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeSignal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="signal" type="462c0819:PsiDirectoryNode" />
-              <item name="makeArrayConsecutive" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeSignal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeSignal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="signal" type="462c0819:PsiDirectoryNode" />
-              <item name="matrixElementsSum" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeSignal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeSignal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="signal" type="462c0819:PsiDirectoryNode" />
-              <item name="shapeArea" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545393073418" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546003136659" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="C:/REST/tasks" />
@@ -668,11 +569,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.code.signal.allLongestStrings" />
       <recent name="com.code.signal.matrixElementsSum" />
       <recent name="com.code.signal.almostIncreasingSequence" />
       <recent name="com.code.signal.makeArrayConsecutive" />
       <recent name="com.code.signal.shapeArea" />
-      <recent name="shapeArea" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -693,19 +594,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.PriceCalculatorTest.shouldCalculatePrice">
-    <configuration name="AreaFinderTest.shouldCalculateShapeArea" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CodeSignal_test" />
+  <component name="RunManager" selected="JUnit.LongestStringsFinderTest.shouldFindLongestStrings">
+    <configuration name="ArraysTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.code.signal.allLongestStrings.ArraysTest" />
+      <module name="CodeSignal_main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.code.signal.shapeArea.*" />
+          <option name="PATTERN" value="com.code.signal.allLongestStrings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.code.signal.shapeArea" />
-      <option name="MAIN_CLASS_NAME" value="com.code.signal.shapeArea.AreaFinderTest" />
-      <option name="METHOD_NAME" value="shouldCalculateShapeArea" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -742,17 +640,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MissingStatuesCounterTest.shouldFindMissingStatuesNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LongestStringsFinderTest.shouldFindLongestStrings" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CodeSignal_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.code.signal.makeArrayConsecutive.*" />
+          <option name="PATTERN" value="com.code.signal.allLongestStrings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.code.signal.makeArrayConsecutive" />
-      <option name="MAIN_CLASS_NAME" value="com.code.signal.makeArrayConsecutive.MissingStatuesCounterTest" />
-      <option name="METHOD_NAME" value="shouldFindMissingStatuesNumber" />
+      <option name="PACKAGE_NAME" value="com.code.signal.allLongestStrings" />
+      <option name="MAIN_CLASS_NAME" value="com.code.signal.allLongestStrings.LongestStringsFinderTest" />
+      <option name="METHOD_NAME" value="shouldFindLongestStrings" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -776,18 +674,18 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.PriceCalculatorTest.shouldCalculatePrice" />
-      <item itemvalue="JUnit.AreaFinderTest.shouldCalculateShapeArea" />
-      <item itemvalue="JUnit.MissingStatuesCounterTest.shouldFindMissingStatuesNumber" />
       <item itemvalue="JUnit.IncreasingSequenceCheckerTest.shouldChecknIncreasingSequence" />
       <item itemvalue="JUnit.IncreasingSequenceCheckerTest.shouldCheckIncreasingSequence" />
+      <item itemvalue="JUnit.LongestStringsFinderTest.shouldFindLongestStrings" />
+      <item itemvalue="Application.ArraysTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LongestStringsFinderTest.shouldFindLongestStrings" />
+        <item itemvalue="Application.ArraysTest" />
         <item itemvalue="JUnit.PriceCalculatorTest.shouldCalculatePrice" />
         <item itemvalue="JUnit.IncreasingSequenceCheckerTest.shouldCheckIncreasingSequence" />
         <item itemvalue="JUnit.IncreasingSequenceCheckerTest.shouldChecknIncreasingSequence" />
-        <item itemvalue="JUnit.MissingStatuesCounterTest.shouldFindMissingStatuesNumber" />
-        <item itemvalue="JUnit.AreaFinderTest.shouldCalculateShapeArea" />
       </list>
     </recent_temporary>
   </component>
@@ -815,48 +713,52 @@
       <workItem from="1543476602345" duration="639000" />
       <workItem from="1545387333410" duration="33000" />
       <workItem from="1545387397363" duration="3924000" />
+      <workItem from="1545392930864" duration="411000" />
+      <workItem from="1545893029390" duration="4813000" />
+      <workItem from="1545983524449" duration="4839000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="IncreasingSequenceCheckerTest_shouldCheckIncreasingSequence - 2018.11.15 at 11h 20m 32s.xml">
-      <configuration name="IncreasingSequenceCheckerTest.shouldCheckIncreasingSequence" configurationId="JUnit" />
+    <history-entry file="LongestStringsFinderTest_shouldFindLongestStrings - 2018.12.27 at 13h 45m 47s.xml">
+      <configuration name="LongestStringsFinderTest.shouldFindLongestStrings" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IncreasingSequenceCheckerTest_shouldCheckIncreasingSequence - 2018.11.15 at 11h 24m 27s.xml">
-      <configuration name="IncreasingSequenceCheckerTest.shouldCheckIncreasingSequence" configurationId="JUnit" />
+    <history-entry file="LongestStringsFinderTest_shouldFindLongestStrings - 2018.12.28 at 12h 36m 51s.xml">
+      <configuration name="LongestStringsFinderTest.shouldFindLongestStrings" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IncreasingSequenceCheckerTest_shouldCheckIncreasingSequence - 2018.11.15 at 11h 52m 11s.xml">
-      <configuration name="IncreasingSequenceCheckerTest.shouldCheckIncreasingSequence" configurationId="JUnit" />
+    <history-entry file="LongestStringsFinderTest_shouldFindLongestStrings - 2018.12.28 at 13h 47m 42s.xml">
+      <configuration name="LongestStringsFinderTest.shouldFindLongestStrings" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IncreasingSequenceCheckerTest_shouldCheckIncreasingSequence - 2018.11.15 at 11h 58m 37s.xml">
-      <configuration name="IncreasingSequenceCheckerTest.shouldCheckIncreasingSequence" configurationId="JUnit" />
+    <history-entry file="LongestStringsFinderTest_shouldFindLongestStrings - 2018.12.28 at 13h 49m 45s.xml">
+      <configuration name="LongestStringsFinderTest.shouldFindLongestStrings" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IncreasingSequenceCheckerTest_shouldCheckIncreasingSequence - 2018.11.15 at 12h 00m 41s.xml">
-      <configuration name="IncreasingSequenceCheckerTest.shouldCheckIncreasingSequence" configurationId="JUnit" />
+    <history-entry file="LongestStringsFinderTest_shouldFindLongestStrings - 2018.12.28 at 13h 59m 43s.xml">
+      <configuration name="LongestStringsFinderTest.shouldFindLongestStrings" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IncreasingSequenceCheckerTest_shouldCheckIncreasingSequence - 2018.11.15 at 12h 01m 12s.xml">
-      <configuration name="IncreasingSequenceCheckerTest.shouldCheckIncreasingSequence" configurationId="JUnit" />
+    <history-entry file="LongestStringsFinderTest_shouldFindLongestStrings - 2018.12.28 at 14h 04m 09s.xml">
+      <configuration name="LongestStringsFinderTest.shouldFindLongestStrings" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IncreasingSequenceCheckerTest_shouldCheckIncreasingSequence - 2018.11.15 at 12h 03m 02s.xml">
-      <configuration name="IncreasingSequenceCheckerTest.shouldCheckIncreasingSequence" configurationId="JUnit" />
+    <history-entry file="LongestStringsFinderTest_shouldFindLongestStrings - 2018.12.28 at 14h 09m 22s.xml">
+      <configuration name="LongestStringsFinderTest.shouldFindLongestStrings" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TotalPriceCalculatorTest_shouldCalculatePrice - 2018.12.21 at 11h 47m 24s.xml">
-      <configuration name="TotalPriceCalculatorTest.shouldCalculatePrice" configurationId="JUnit" />
+    <history-entry file="LongestStringsFinderTest_shouldFindLongestStrings - 2018.12.28 at 14h 10m 22s.xml">
+      <configuration name="LongestStringsFinderTest.shouldFindLongestStrings" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TotalPriceCalculatorTest_shouldCalculatePrice - 2018.12.21 at 11h 59m 12s.xml">
-      <configuration name="TotalPriceCalculatorTest.shouldCalculatePrice" configurationId="JUnit" />
+    <history-entry file="LongestStringsFinderTest_shouldFindLongestStrings - 2018.12.28 at 14h 10m 45s.xml">
+      <configuration name="LongestStringsFinderTest.shouldFindLongestStrings" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PriceCalculatorTest_shouldCalculatePrice - 2018.12.21 at 12h 48m 09s.xml">
-      <configuration name="PriceCalculatorTest.shouldCalculatePrice" configurationId="JUnit" />
+    <history-entry file="LongestStringsFinderTest_shouldFindLongestStrings - 2018.12.28 at 14h 11m 04s.xml">
+      <configuration name="LongestStringsFinderTest.shouldFindLongestStrings" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52338000" />
+    <option name="totallyTimeSpent" value="62401000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21588486" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22228146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -875,7 +777,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32939914" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="11" visible="true" weight="0.32939914" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32939914" />
+      <window_info active="true" anchor="bottom" id="Messages" order="12" visible="true" weight="0.32939914" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -902,13 +804,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="302">
           <caret line="48" column="8" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/code/signal/adjacentElementsProduct/ProductTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="15" column="37" lean-forward="true" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
         </state>
       </provider>
     </entry>
@@ -969,13 +864,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/code/signal/almostIncreasingSequence/info.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/code/signal/makeArrayConsecutive/MissingStatuesCounter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -987,13 +875,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/code/signal/almostIncreasingSequence/IncreasingSequenceChecker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
@@ -1011,13 +892,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/code/signal/almostIncreasingSequence/IncreasingSequenceCheckerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/code/signal/makeArrayConsecutive/MissingStatuesCounterTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="55">
@@ -1032,10 +906,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/code/signal/shapeArea/AreaFinderTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/code/signal/almostIncreasingSequence/IncreasingSequenceChecker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+        <state relative-caret-position="216">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
@@ -1049,14 +923,77 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/code/signal/matrixElementsSum/PriceCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/code/signal/matrixElementsSum/PriceCalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="666">
+          <caret line="40" column="1" lean-forward="true" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/code/signal/almostIncreasingSequence/info.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/code/signal/allLongestStrings/info.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="76" lean-forward="true" selection-start-line="18" selection-start-column="76" selection-end-line="18" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/code/signal/shapeArea/AreaFinderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/code/signal/almostIncreasingSequence/IncreasingSequenceCheckerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/code/signal/adjacentElementsProduct/ProductTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="27" column="48" lean-forward="true" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/code/signal/allLongestStrings/ArraysTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="41" lean-forward="true" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/function/Predicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/code/signal/allLongestStrings/LongestStringsFinderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="39" lean-forward="true" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/code/signal/allLongestStrings/LongestStringsFinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
